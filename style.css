@@ -28,19 +28,19 @@ body{
 #grid2-1{
     position: absolute;
     left: 0px;
-    top: 0px;
+    top: 200px;
 }
 
 #grid2-2{
     position: absolute;
     left: 200px;
-    top: 0px;
+    top: 200px;
 }
 
 #grid2-3{
     position: absolute;
     left: 400px;
-    top: 0px;
+    top: 200px;
 }
 
 #grid3-1{
